@@ -77,17 +77,13 @@ const AboutSection = () => {
 
             <div className="flex flex-wrap gap-4">
               <Button variant="hero" asChild>
-                <a href="https://drive.google.com/file/d/1J33qtXL0xGLvtoAjavL2muK2lf193KDs/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1bw7z5GsMYNUAWLQSaTBknXoyleVqfLEz/view?usp=drive_link" target="_blank">
                   Resume
                   <ChevronRight className="w-4 h-4 ml-1" />
                 </a>
               </Button>
-              <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground" asChild>
-                <a href="https://share.google/WEkJjQqZDLEhKaphA" target="_blank">
-                  <Award className="w-4 h-4 mr-2" />
-                  Certificate
-                </a>
-              </Button>
+              
+              
             </div>
           </motion.div>
         </div>
