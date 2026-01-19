@@ -17,7 +17,13 @@ const certificates = [
     credentialUrl: "https://drive.google.com/file/d/17WwU380jESkOMj6-VZZGzwTAvcejBXR8/view?usp=drivesdk",
     description: "Completed hands-on training in JavaScript focused on building interactive and user-friendly web applications. Gained strong understanding of core concepts including variables, functions, conditional logic, loops, arrays, and objects.Learned to manipulate the DOM to dynamically update webpage content and handle user interactions.",
   },
-  
+   {
+    title: "WEB DESIGNING",
+    issuer: "Eduweb Vision Pvt.Ltd",
+    date: "2022",
+    credentialUrl: "https://drive.google.com/file/d/1fIgkYExJUi7HKpvnkhpD34-DElp7xg4x/view?usp=drive_link",
+    description: "Completed Web designing training includes HTML, CSS, and JavaScript, which are useful for creating attractive, responsive, and user-friendly websites.",
+  },
   
 ];
 
