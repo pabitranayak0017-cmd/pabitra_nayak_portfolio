@@ -77,7 +77,7 @@ const AboutSection = () => {
 
             <div className="flex flex-wrap gap-4">
               <Button variant="hero" asChild>
-                <a href="https://drive.google.com/file/d/1tn6reMXpLbEOLarryU4mxktpiBu2Itx2/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1u-l4AT2rFNl_gnV8ya0Y5rKkgJH6wJq2/view?usp=sharing" target="_blank">
                   Resume
                   <ChevronRight className="w-4 h-4 ml-1" />
                 </a>
